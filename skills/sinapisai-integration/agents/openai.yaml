@@ -1,0 +1,4 @@
+interface:
+  display_name: "SinapisAI 接入"
+  short_description: "接入 SinapisAI 与 Mio，完成服务端配置、文本调用和流式输出，并排查常见错误"
+  default_prompt: "使用 $sinapisai-integration 帮我把当前项目接入 SinapisAI，检查模型、服务端密钥配置并验证调用代码。"
